@@ -1,0 +1,27 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# OS specific
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Credentials and sensitive files
+*.pem
+*.key
+*.env
+.env.local
+credentials.txt
+secrets/
+
+# Project specific
+node_modules/
+.cache/
